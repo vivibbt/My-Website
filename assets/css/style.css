@@ -1,0 +1,40 @@
+body {
+    background-color: mintcream;
+}
+
+h1 {
+   text-align: center; color: rgb(32, 146, 240)
+}
+
+h2 {
+    text-align: center;
+    margin: 20px;
+    font-size: 17px;
+    border: 1px solid;
+}
+
+p { 
+    margin: 10px;    
+    color: brown;
+}
+
+.container {
+    margin: 30px;
+    display: flex;
+}
+
+.input {
+    margin: 10px;
+}
+
+.flexCheckDefault{
+    margin-top: 20px;
+}
+
+.largebox{
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    color: aqua;
+}
+
